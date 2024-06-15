@@ -51,9 +51,9 @@ Distance vs Duration:
 Location-Based Searches, Estimates, and Quotes:
 
 Anekal:
-  - Searches: 60
-  - Estimates: 48
-  - Quotes: 40
+- Searches: 60
+- Estimates: 48
+- Quotes: 40
 
 B.T.M. Layout:
   - Searches: 56
