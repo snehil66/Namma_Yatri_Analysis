@@ -48,9 +48,9 @@ Distance vs Duration:
   - Distance covered also increases with trip duration. The maximum distance recorded is 1000 units for the longest duration range.
 
 
-Location-Based Searches, Estimates, and Quotes:
+#### Location-Based Searches, Estimates, and Quotes:
 
-Anekal:- 
+Anekal:
   - Searches: 60
   - Estimates: 48
   - Quotes: 40
@@ -102,6 +102,7 @@ Total:
 Anekal:
   - Conversion from searches to estimates: 80%
   - Conversion from estimates to quotes: 83%
+
 
 B.T.M. Layout:
   - Conversion from searches to estimates: 78.6%
