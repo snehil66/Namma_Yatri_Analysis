@@ -33,17 +33,17 @@ Based on the data provided in the Namma Yatri dashboard, here are the key numeri
 - **Searches: 2161**
 - **Estimates Generated: 1758**
 - **Quotes Provided: 1277**
-- **Driver Earnings: ₹ 751,000**
+- **Driver Earnings: ₹ 7,51,000**
 - **Conversion Rate: 45%**
 
 #### Trips vs Duration:
   - The count of trips decreases as the duration increases, with the highest number of trips occurring within the shortest duration range.
 
 #### Fare vs Duration:
-  - Fares increase proportionally with the duration of the trips. The highest fare recorded is 40,000 units for the longest duration range.
+  - Fares increase proportionally with the duration of the trips. The highest fare recorded is ₹ 40,000 for the longest duration range.
 
 #### Distance vs Duration:
-  - Distance covered also increases with trip duration. The maximum distance recorded is 1000 units for the longest duration range.
+  - Distance covered also increases with trip duration. The maximum distance recorded is **1000km** for the longest duration range.
 
 ### Detailed Analysis:
 
@@ -51,7 +51,7 @@ Based on the data provided in the Namma Yatri dashboard, here are the key numeri
 The highest number of searches occurred in **C.V. Raman Nagar (64)**, followed by **Basavanagudi (59)**, **Bommanahalli (58)**, and **Bangalore South (57)**.
 
 #### Driver Earnings Analysis:
-The total driver earnings of **₹ 751,000** units indicate the average earning per completed trip is approximately **₹ 764** units **(751,000/983)**.
+The total driver earnings of **₹ 751,000** units indicate the average earning per completed trip is approximately **₹ 764** **(751,000/983)**.
 
 #### Key Takeaways:
 **Conversion Rates**: Areas like Bangalore South have higher conversion rates from searches to quotes, indicating strong demand and efficient service provision. Lower conversion rates in areas like Byatarayanapura suggest potential issues that need addressing.
