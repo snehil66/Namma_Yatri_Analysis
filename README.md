@@ -60,7 +60,7 @@ The total driver earnings of **₹7,51,000** units indicate the average earning 
 
 **Earnings Efficiency**: The average earnings per trip suggest that the fare structure is aligned with the trip durations and distances, ensuring fair compensation for drivers.
 
-#### Recommendations:
+### Recommendations:
 **Resource Allocation**: Focus on high-demand areas to improve service availability and reduce wait times.  
 **Conversion Improvement**: Investigate areas with lower conversion rates to identify and address potential issues.   
 **Dynamic Pricing**: Consider implementing dynamic pricing models to balance demand and supply during peak hours.  
