@@ -29,8 +29,7 @@ I'm proud to add this project to my portfolio and share it with my professional 
 
 Based on the data provided in the Namma Yatri dashboard, here are the key numerical insights:
 
-Overall Metrics:
-
+#### Overall Metrics:
 - **Completed Trips: 983**
 - **Searches: 2161**
 - **Estimates Generated: 1758**
@@ -51,10 +50,7 @@ Overall Metrics:
 #### Location-Based Searches, Estimates, and Quotes:
 **Anekal**:  Searches: 60,  Estimates: 48,  Quotes: 40
 
-B.T.M. Layout:
-  - Searches: 56
-  - Estimates: 44
-  - Quotes: 37
+B.T.M. Layout:		Searches: 56,		Estimates: 44,		Quotes: 37
 
 Bangalore South:
   - Searches: 57
