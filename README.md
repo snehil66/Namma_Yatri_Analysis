@@ -7,22 +7,24 @@ The primary objective of this project is to develop an interactive and real-time
 
 ![Home Page](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/1#issue-2353986099)
 
-## Features
+💻 Key Features:
 
-📊 Live Updates: Get live scores, player stats, and match highlights as they happen.
+- Real-Time Data: Provides live updates from Namma Yatri for accurate, up-to-the-minute insights.
+- Data Analysis: Analyzed key metrics to understand trends, peak hours, and customer preferences.
+- Interactive Visuals: Easy-to-understand charts and graphs for quick insights and better decision-making.
+  
 
-📈 Interactive Visuals: Explore match insights with charts and graphs showing trends, player performances, and team standings.
+📊 Project Highlights:
 
-📱 Mobile-Friendly: Access the dashboard on your phone, tablet, or computer, so you never miss any action.
+- SQL-Based Analysis: Used SQL for extracting, transforming, and analyzing the data.
+- Power BI Dashboard: Designed an interactive and user-friendly dashboard that works well on both desktop and mobile devices.
+- Insightful Metrics: Includes visualizations of trip frequencies, average wait times, popular routes, and more.
 
-![Live Score](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/2#issue-2353986999)
 
-## Key Highlights:
+🔗 Check It Out:
 
-Power BI: Used Power BI to create an easy-to-use dashboard.
-Cricbuzz API: Integrated the Cricbuzz API to get live data for accurate and timely updates.
-Custom Visuals: Created custom visuals to make the dashboard more engaging.
-Responsive Design: Made sure it works well on all devices and screen sizes.
+I'm proud to add this project to my portfolio and share it with my professional network. Take a look at the dashboard and let me know your thoughts! [https://rb.gy/j6ejh6]
+
 
 ## Insights
 
