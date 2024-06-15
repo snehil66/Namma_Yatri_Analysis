@@ -51,7 +51,7 @@ Based on the data provided in the Namma Yatri dashboard, here are the key numeri
 The highest number of searches occurred in **C.V. Raman Nagar (64)**, followed by **Basavanagudi (59)**, **Bommanahalli (58)**, and **Bangalore South (57)**.
 
 #### Driver Earnings Analysis:
-The total driver earnings of **751,000** units indicate the average earning per completed trip is approximately **764** units **(751,000/983)**.
+The total driver earnings of **₹ 751,000** units indicate the average earning per completed trip is approximately **₹ 764** units **(751,000/983)**.
 
 #### Key Takeaways:
 **Conversion Rates**: Areas like Bangalore South have higher conversion rates from searches to quotes, indicating strong demand and efficient service provision. Lower conversion rates in areas like Byatarayanapura suggest potential issues that need addressing.
