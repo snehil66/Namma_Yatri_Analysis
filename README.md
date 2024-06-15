@@ -5,7 +5,6 @@
 ## Objective
 The primary objective of this project is to develop an interactive and real-time dashboard for the Namma Yatri cab service, leveraging SQL and PowerBI. This dashboard will harness live data to deliver dynamic insights, enabling prompt and data-driven decision-making. 
 
-![Home Page](https://github.com/teapositve/IPL_Live_Score_Dashboard/issues/1#issue-2353986099)
 
 💻 Key Features:
 
