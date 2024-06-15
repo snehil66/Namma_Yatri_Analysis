@@ -31,28 +31,25 @@ Based on the data provided in the Namma Yatri dashboard, here are the key numeri
 
 Overall Metrics:
 
-- Completed Trips: 983
-- Searches: 2161
-- Estimates Generated: 1758
-- Quotes Provided: 1277
-- Driver Earnings: 751,000 units
-- Conversion Rate: 45%
+- **Completed Trips: 983**
+- **Searches: 2161**
+- **Estimates Generated: 1758**
+- **Quotes Provided: 1277**
+- **Driver Earnings: ₹ 751,000**
+- **Conversion Rate: 45%**
 
-Trips vs Duration:
+#### Trips vs Duration:
   - The count of trips decreases as the duration increases, with the highest number of trips occurring within the shortest duration range.
 
-Fare vs Duration:
+#### Fare vs Duration:
   - Fares increase proportionally with the duration of the trips. The highest fare recorded is 40,000 units for the longest duration range.
 
-Distance vs Duration:
+#### Distance vs Duration:
   - Distance covered also increases with trip duration. The maximum distance recorded is 1000 units for the longest duration range.
 
 
 #### Location-Based Searches, Estimates, and Quotes:
-**Anekal**:
-  - Searches: 60
-  - Estimates: 48
-  - Quotes: 40
+**Anekal**:  Searches: 60,  Estimates: 48,  Quotes: 40
 
 B.T.M. Layout:
   - Searches: 56
