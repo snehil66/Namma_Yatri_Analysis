@@ -22,7 +22,7 @@ The primary objective of this project is to develop an interactive and real-time
 
 ### 🔗 Check It Out:
 
-I'm proud to add this project to my portfolio and share it with my professional network. Take a look at the dashboard and let me know your thoughts! [https://rb.gy/j6ejh6]
+I added this project to my portfolio and shared it with my professional network. Take a look at the dashboard and let me know your thoughts! [https://rb.gy/j6ejh6]
 
 
 ### Insights
