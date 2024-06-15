@@ -1,6 +1,6 @@
 # Namma_Yatri
 
-### Dashboard Link: [https://rb.gy/x7xdgl]
+### Dashboard Link: [https://rb.gy/j6ejh6]
 
 ## Objective
 The primary objective of this project is to develop an interactive and real-time dashboard for the Namma Yatri cab service, leveraging SQL and PowerBI. This dashboard will harness live data to deliver dynamic insights, enabling prompt and data-driven decision-making. 
